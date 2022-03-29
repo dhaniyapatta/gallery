@@ -4,7 +4,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/131607249_860197438096933_1400109561053193980_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/131607249_860197438096933_1400109561053193980_n.placeholder.jpg",
       "path": "./photos/photography/131607249_860197438096933_1400109561053193980_n.jpg"
     },
@@ -12,7 +12,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/152767770_181510426751595_6708830768611482695_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/152767770_181510426751595_6708830768611482695_n.placeholder.jpeg",
       "path": "./photos/photography/152767770_181510426751595_6708830768611482695_n.jpeg"
     },
@@ -20,7 +20,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/105941151_183405343223539_8207180121220338641_n.min.jpg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/105941151_183405343223539_8207180121220338641_n.placeholder.jpg",
       "path": "./photos/photography/105941151_183405343223539_8207180121220338641_n.jpg"
     },
@@ -28,7 +28,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/132489323_935451576985126_5077598159786857568_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/132489323_935451576985126_5077598159786857568_n.placeholder.jpeg",
       "path": "./photos/photography/132489323_935451576985126_5077598159786857568_n.jpeg"
     },
@@ -36,7 +36,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/116314257_610379369877982_6105695087367760245_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/116314257_610379369877982_6105695087367760245_n.placeholder.jpg",
       "path": "./photos/photography/116314257_610379369877982_6105695087367760245_n.jpg"
     },
@@ -44,7 +44,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/118158458_434291427491924_1486456241526973853_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/118158458_434291427491924_1486456241526973853_n.placeholder.jpg",
       "path": "./photos/photography/118158458_434291427491924_1486456241526973853_n.jpg"
     },
@@ -52,7 +52,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/118471031_115020546834753_4825078622687629535_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/118471031_115020546834753_4825078622687629535_n.placeholder.jpg",
       "path": "./photos/photography/118471031_115020546834753_4825078622687629535_n.jpg"
     },
@@ -60,7 +60,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/123143449_384647792736166_7050315240906218447_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/123143449_384647792736166_7050315240906218447_n.placeholder.jpeg",
       "path": "./photos/photography/123143449_384647792736166_7050315240906218447_n.jpeg"
     },
@@ -68,7 +68,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/122942011_208600434146222_3751967949817367476_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/122942011_208600434146222_3751967949817367476_n.placeholder.jpg",
       "path": "./photos/photography/122942011_208600434146222_3751967949817367476_n.jpg"
     },
@@ -76,7 +76,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/148298774_485131495986099_4832687896049704569_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/148298774_485131495986099_4832687896049704569_n.placeholder.jpeg",
       "path": "./photos/photography/148298774_485131495986099_4832687896049704569_n.jpeg"
     },
@@ -84,7 +84,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/123141559_1178630639204979_5813191370957212875_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/123141559_1178630639204979_5813191370957212875_n.placeholder.jpeg",
       "path": "./photos/photography/123141559_1178630639204979_5813191370957212875_n.jpeg"
     },
@@ -92,7 +92,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/105031530_107222527630857_5797994911511562518_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/105031530_107222527630857_5797994911511562518_n.placeholder.jpg",
       "path": "./photos/photography/105031530_107222527630857_5797994911511562518_n.jpg"
     },
@@ -100,7 +100,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/116155340_297161044932079_3241302262665519050_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/116155340_297161044932079_3241302262665519050_n.placeholder.jpg",
       "path": "./photos/photography/116155340_297161044932079_3241302262665519050_n.jpg"
     },
@@ -108,7 +108,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/174795284_311911030299387_4564156309644558673_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/174795284_311911030299387_4564156309644558673_n.placeholder.jpeg",
       "path": "./photos/photography/174795284_311911030299387_4564156309644558673_n.jpeg"
     },
@@ -116,7 +116,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/131209297_2850032935243350_945172885054098518_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/131209297_2850032935243350_945172885054098518_n.placeholder.jpeg",
       "path": "./photos/photography/131209297_2850032935243350_945172885054098518_n.jpeg"
     },
@@ -124,7 +124,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/105390270_274154390352511_8104176643708033749_n.min.jpg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/105390270_274154390352511_8104176643708033749_n.placeholder.jpg",
       "path": "./photos/photography/105390270_274154390352511_8104176643708033749_n.jpg"
     },
@@ -132,7 +132,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/106079703_267407497691910_6126709020860716826_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/106079703_267407497691910_6126709020860716826_n.placeholder.jpg",
       "path": "./photos/photography/106079703_267407497691910_6126709020860716826_n.jpg"
     },
@@ -140,7 +140,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/123097783_1659221057599642_8607547891397028258_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/123097783_1659221057599642_8607547891397028258_n.placeholder.jpg",
       "path": "./photos/photography/123097783_1659221057599642_8607547891397028258_n.jpg"
     },
@@ -148,7 +148,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/159952380_273639644427322_6590200390025299704_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/159952380_273639644427322_6590200390025299704_n.placeholder.jpeg",
       "path": "./photos/photography/159952380_273639644427322_6590200390025299704_n.jpeg"
     },
@@ -156,7 +156,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/123140151_3324010614381055_3125144179694469648_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/123140151_3324010614381055_3125144179694469648_n.placeholder.jpeg",
       "path": "./photos/photography/123140151_3324010614381055_3125144179694469648_n.jpeg"
     },
@@ -164,7 +164,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/116560518_105677254506790_1764323927076439428_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/116560518_105677254506790_1764323927076439428_n.placeholder.jpg",
       "path": "./photos/photography/116560518_105677254506790_1764323927076439428_n.jpg"
     },
@@ -172,7 +172,7 @@
       "height": 640,
       "compressed_path": "./photos/photography/118199764_238865197324563_7038249695692974431_n.min.jpg",
       "width": 640,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/118199764_238865197324563_7038249695692974431_n.placeholder.jpg",
       "path": "./photos/photography/118199764_238865197324563_7038249695692974431_n.jpg"
     },
@@ -180,7 +180,7 @@
       "height": 1080,
       "compressed_path": "./photos/photography/131607249_860197438096933_1400109561053193980_n.min.jpeg",
       "width": 1080,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/photography/131607249_860197438096933_1400109561053193980_n.placeholder.jpeg",
       "path": "./photos/photography/131607249_860197438096933_1400109561053193980_n.jpeg"
     }
